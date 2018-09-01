@@ -4,7 +4,7 @@ email: jacob@jacobtomlinson.co.uk
 description: "The Environmentalist"
 baseurl: ""
 url: "http://mostafaramezani.com/"
-title_description: "I love to provide solutions to most sophisticated human race problems. Questions like water scarcity, overpassing droughts, saving endangered species, remediating aquifers, and providing clean and hight quality water for all earth population. I use computers to do so. I develop models and work with a team consisted of best hydrologist from all over the world. I may be a keen environmentalist, but above all, I am a programmer."
+title_description: "🦁I love to provide solutions to most sophisticated human race problems. Questions like water scarcity, overpassing droughts, saving endangered species, remediating aquifers, and providing clean and hight quality water for all earth population. I use computers to do so. I develop models and work with a team consisted of best hydrologist from all over the world. I may be a keen environmentalist, but above all, I am a programmer."
 
 title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
 google_analytics: "UA-20365477-4"
@@ -25,7 +25,7 @@ xing_link:
 facebook_link: 
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/M_Ramezani\">Mostafa Joon :)</a>"
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
