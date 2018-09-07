@@ -1,6 +1,6 @@
 # Site settings
-title: "Carte Noire"
-email: jacob@jacobtomlinson.co.uk
+title: "The Environmentalist"
+email: Ramezani.M@ut.ac.ir
 description: "The Environmentalist"
 baseurl: ""
 url: "http://mostafaramezani.com/"
@@ -8,21 +8,21 @@ title_description: "🦁I love to provide solutions to most sophisticated human 
 
 title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
 google_analytics: "UA-20365477-4"
-disqus_account: cartenoire
-github_repository: https://github.com/jacobtomlinson/carte-noire
+disqus_account: 
+github_repository: https://github.com/anonymoustafa
 addthis_id: ra-513c6fa83da6ec67
-post_limit: 5
+post_limit: 11
 
 # Social usernames/URLs
 twitter_username: M_Ramezani
 github_username:  anonymoustafa
 instagram_username: mostafa.ramezani.90
 reddit_username: 
-linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
+linkedin_link: https://www.linkedin.com/in/mramezani/
 google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
-stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
-xing_link:
-facebook_link: 
+stackoverflow_link: https://stackoverflow.com/users/5925160/darth-mostafa?tab=profile
+xing_link: 
+facebook_link: https://www.facebook.com/Mostafa.Ramezani.1990
 
 # Footer
 footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/M_Ramezani\">Mostafa Joon :)</a>"
