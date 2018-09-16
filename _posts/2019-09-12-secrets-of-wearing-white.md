@@ -3,14 +3,14 @@ layout:     post
 title:      Secrets of Wearing White
 date:       2018-09-12 11:11:11
 author:     Mostafa Ramezani
-summary:    Observing other species is essential if we want to learn about life.
+summary:    This is how I earned some of my jobs.
 categories: life
-thumbnail:  dog
+thumbnail:  life-style
 tags:
- - dog
- - experience
- - observing
- - details
+ - shirt
+ - white
+ - people
+ - society
 ---
 Have you ever been in a negotiation? Have ever tried to convince someone who is hierarchically in a higher level than you, to do something you needed/wanted/advised? Have you ever went through employment process? Encountering interviewers? Tried you ever to claim your qualification? To won a position only by presenting yourself?
 
