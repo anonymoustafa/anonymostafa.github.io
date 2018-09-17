@@ -77,7 +77,7 @@ This allows your content to have the proper informational and contextual hierarc
 ![Thumper](https://i.imgur.com/DMCHDqF.jpg)
 
 
-### Stylish blockquotes included
+# Stylish blockquotes included
 
 You can use the markdown quote syntax, `>` for simple quotes.
 
