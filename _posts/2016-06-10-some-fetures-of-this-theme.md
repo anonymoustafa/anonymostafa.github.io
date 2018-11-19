@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Carte Noire in Action
-date:       2014-06-10 12:31:19
+title:      Some Fetures of this theme
+date:       2016-06-10 12:31:19
 summary:    See what the different elements looks like.
 categories: jekyll
 thumbnail: cogs
@@ -11,7 +11,7 @@ tags:
  - carte
  - noire
 ---
-
+Mr. Ghaderi and I have changed this page dated 2018-19-11
 **Note** - This article is a derivative of ["See pixyll in action"][1], taken from the lovely jekyll theme [pixyll][4].
 
 All links are easy to [locate and discern](#), yet don't detract from the harmony
