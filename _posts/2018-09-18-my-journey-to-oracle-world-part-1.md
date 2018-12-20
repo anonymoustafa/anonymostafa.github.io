@@ -16,6 +16,7 @@ tags:
  - cultural
  - illness
 ---
+!(oracle, the mother and the cradle of modern world)[]
 So, how does it feel to be a government employee? I think, it is something like selling your soul to satan. Yeah! Exactly. Not very bad! What else it can be? You are signing a contract with a governmental organization to sell a specific amount of your day to them on a daily basis for 30 years. That&#39;s more than whole lifetime of %8 of earth human population. And yes, no money is enough for your life, so, you are selling your soul with tons of millions of lossage.
 
 But, what an employee day would looks like in I? I am sorry for foreign contractors who aimed for I market because unless if you are Spanish or Italian, you are going to suffer a lot!
