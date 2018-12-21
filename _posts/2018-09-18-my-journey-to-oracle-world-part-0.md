@@ -3,7 +3,7 @@ layout:     post
 title:      My Journey to Oracle world (Part 0) 
 date:       2018-12-20 21:21
 author:     Mostafa Ramezani
-summary:    The experiences of a self-taught amateur programmer in deep ocean of the Oracle platfroms
+summary:    The experiences of a self-taught amateur programmer in deep ocean of the Oracle platforms
 categories: "programming", "IT", "oracle"
 thumbnail:  code
 tags:
