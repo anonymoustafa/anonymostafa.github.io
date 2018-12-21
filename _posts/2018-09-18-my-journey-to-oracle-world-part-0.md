@@ -7,14 +7,13 @@ summary:    The experiences of a self-taught amateur programmer in deep ocean of
 categories: programming oracle
 thumbnail:  code
 tags:
- - government
- - employee
- - mongols
- - arabs
- - crusaders
- - wars
- - cultural
- - illness
+ - oracle
+ - programming
+ - computer
+ - java
+ - jdeveloper
+ - database
+ - weblog
 ---
 ![oracle, the cradle of modern world](https://raw.githubusercontent.com/anonymoustafa/anonymostafa.github.io/master/pictures/20151027-oracle-logo-on-yacht-100625235-large.jpg)
 Although I am counted as an amateur in coding world, I've been busy with my Farsi weblog for a long time. I am going to express my feelings after diving (and maybe sinking deep deep) into beautiful **Oracle world**.
