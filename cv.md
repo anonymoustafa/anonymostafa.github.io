@@ -3,6 +3,7 @@ layout:     page
 title:      Curriculum Vitae
 permalink:  /cv/
 ---
+![Mostafa Ramezani](https://raw.githubusercontent.com/anonymoustafa/anonymostafa.github.io/master/pictures/mostafaramezani.jpg)
 # Mostafa Ramezani
 ## Contact information
 
